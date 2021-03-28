@@ -22,6 +22,9 @@ Example:
 ## Finding out the ID of a Google Drive File
 
 **Google Drive File ID** is a unique identifier of the **file** on **Google Drive**. **File IDs** normally, they are stable throughout the lifespan of the **file**, even if the **file** name changes. To find out the id of the **File ID**, you wish to download  right-click on the name of the **file**, then choose the Get Shareable Link option, and turn on Link Sharing if needed. A modal will **popup** with a link looking similar to this
-> https://drive.google.com/file/d/THIS_IS_WHERE_THE_ID_WILL_BE _LOCATED/view?usp=sharing
+> https://drive.google.com/file/d/THIS_IS_WHERE_THE_ID_WILL_BE_LOCATED/view?usp=sharing
 
 As shown above all you will have to do now is copy the **THIS_IS_WHERE_THE_ID_WILL_BE _LOCATED** and paste it combined with the final destination of the file you wish to download from Google Drive. Obviously, each file in your Google Drive will have a unique ID.
+
+
+## Thanks for using this script!
