@@ -5,7 +5,7 @@ I've adapted his code to accept Argument Parsers. This way all you need to do no
 Example:
 > python .\downloadGfile.py 3dasdp343343dswww43 C:\Git\test\mytext.txt
 
-And Voilà! You no longer need to modify this python script each time you want to download a different document or put it in a different destination. All you have to do now is write the the ID and the final destination of each file you want to download from Google Drive
+And Voilà! You no longer need to modify this python script each time you want to download a different document or put it in a different destination. All you have to do now is type the the ID and the final destination of each file you want to download from Google Drive in the terminal when calling this script
 
 ## Warning: 
 All the files you want to dowload from Google Drive still need to be set to public otherwise this script wont be able to download them at all!
@@ -17,7 +17,7 @@ All the files you want to dowload from Google Drive still need to be set to publ
 python  downloadGfile.py **GFileLink** **Destination**
 
 Example:
- `python .\downloadGfile.py 3dasdp34ThisIsAFakeID3343dswww43`
+ `python .\downloadGfile.py 3dasdp34ThisIsAFakeID3343dswww43 C:\Git\test\text_downloaded_from_gdrive.txt`
 
 ## Finding out the ID of a Google Drive File
 
